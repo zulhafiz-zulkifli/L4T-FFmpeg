@@ -134,7 +134,7 @@ base_options=(
   --enable-libdc1394
   --enable-libdrm
   --enable-libiec61883
-  --enable-chromaprint
+  #--enable-chromaprint
   --enable-shared
   --libdir=/usr/lib/${os_arch}
   --incdir=/usr/include/${os_arch}
